@@ -11,3 +11,9 @@ ci_area = (PI * (sq_weidth/ 2) ** 2)
 
 total_area = (sq_area + rc_area) - ci_area
 print (total_area)
+
+print (chr(97))
+
+a , b = 3 , 5
+print (a)
+
