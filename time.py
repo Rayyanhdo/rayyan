@@ -1,7 +1,7 @@
-Hour1 = int(input("enter the hour:  "))
-Mint1 = int(input("enter the mint:  "))
+Hour1 = int(input("enter the hour1:  "))
+Mint1 = int(input("enter the mint2:  "))
 
-Hour2 = int(input("enter the hour1:  "))
+Hour2 = int(input("enter the hour2:  "))
 Mint2 = int(input("enter the mint2:  "))
 
 if (Hour1 < Hour2):
