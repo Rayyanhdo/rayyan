@@ -1,7 +1,6 @@
-
-n = []
+n = [] # list 
 print("Number | primstiat")
-for x in range(1, 31):
+for x in range(1, 31): # this for add the number inside the empty list 
 
     if x == 1:
         print(f"{x}|false")

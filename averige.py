@@ -1,4 +1,4 @@
-
+# avrege in list 
 student=[66,88,56,90,80]
 
 
